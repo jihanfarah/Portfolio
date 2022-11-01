@@ -26,3 +26,28 @@ Preview:
 ![image](https://user-images.githubusercontent.com/103634806/197677475-81c4674b-fe86-4f29-8c25-debff9242874.png)
 
 ![image](https://user-images.githubusercontent.com/103634806/197677485-2751702a-45ef-467b-a50e-5ca5f21ee2ac.png)
+
+## [Sales Performance Report](https://jihanfarah.github.io/Sales-Performance-Report/)
+This project is held by DQLab. The main goal of this project is to analyze the sales perfomance of DQLab Store.
+
+Preview:
+
+```
++-------+------------+-----------------+----------------------+
+| years | sales      | promotion_value | burn_rate_percentage |
++-------+------------+-----------------+----------------------+
+|  2009 | 4613872681 |       214330327 |                 4.65 |
+|  2010 | 4059100607 |       197506939 |                 4.87 |
+|  2011 | 4112036186 |       214611556 |                 5.22 |
+|  2012 | 4482983158 |       225867642 |                 5.04 |
++-------+------------+-----------------+----------------------+
+
++-------+--------------------+
+| years | number_of_customer |
++-------+--------------------+
+|  2009 |                585 |
+|  2010 |                593 |
+|  2011 |                581 |
+|  2012 |                594 |
++-------+--------------------+
+```
