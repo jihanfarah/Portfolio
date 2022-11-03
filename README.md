@@ -51,3 +51,11 @@ Preview:
 |  2012 |                594 |
 +-------+--------------------+
 ```
+
+## [Titanic Machine Learning](https://github.com/jihanfarah/Titanic-Machine-Learning/blob/main/Titanic.ipynb)
+
+This project is a challenge from Kaggle. The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. In this challenge, I build a predictive model using feature engineering based on DQLab's project that answers the question: “what sorts of people were more likely to survive in Ti?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+Preview:
+
+![image](https://user-images.githubusercontent.com/103634806/199696597-dc9b66d3-ff4a-4f8e-8757-e266815f884e.png)
