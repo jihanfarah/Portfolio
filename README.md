@@ -59,3 +59,16 @@ This project is a challenge from Kaggle. The sinking of the Titanic is one of th
 Preview:
 
 ![image](https://user-images.githubusercontent.com/103634806/199696597-dc9b66d3-ff4a-4f8e-8757-e266815f884e.png)
+
+## [SQL Data Exploration COVID-19](https://github.com/jihanfarah/SQLDataExploration)
+
+This project is based on [Alex Freberg's SQL Data Exploration Tutorial on Youtube](https://www.youtube.com/watch?v=qfyynHBFOsM&feature=youtu.be). I use Microsoft SQL Server Management Studio to do this project and get the dataset from [here](https://ourworldindata.org/covid-deaths). The main purpose of this project is to explore the dataset to get some information about COVID-19 cases. 
+
+Preview:
+
+![Screenshot_20230226_182834](https://user-images.githubusercontent.com/103634806/221471243-577bd3a7-3afd-4316-9706-9d523daa797b.png)
+
+![Screenshot_20230226_183027](https://user-images.githubusercontent.com/103634806/221471258-6e30a1c3-61e6-417f-b0bd-b25ecb346bbb.png)
+
+![Screenshot_20230226_183404](https://user-images.githubusercontent.com/103634806/221471303-3fd76e65-6050-43d8-9434-aa4840488669.png)
+
