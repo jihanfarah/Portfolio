@@ -23,9 +23,9 @@ This project is a part of Google Data Analytics Professional Certificate. The go
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/103634806/226631481-6bb8c7b0-3211-49a7-a6be-058e9401423d.png)
+![image](https://user-images.githubusercontent.com/103634806/226631765-7944bd69-a855-43d2-9944-f0708a169ed1.png)
 
-![image](https://user-images.githubusercontent.com/103634806/226631545-423b38c5-9d3e-4428-91eb-69319dd46962.png)
+![image](https://user-images.githubusercontent.com/103634806/226631811-f65e8273-36b6-4478-96f6-80745ecdc241.png)
 
 ## [Sales Performance Report](https://jihanfarah.github.io/Sales-Performance-Report/)
 This project is held by DQLab. The main goal of this project is to analyze the sales perfomance of DQLab Store.
